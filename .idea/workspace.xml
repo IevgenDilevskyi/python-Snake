@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="977c9da4-7fc2-4d7f-9967-9d3ac37523ef" name="Changes" comment="Snake body and animate snake segments">
+    <list default="true" id="977c9da4-7fc2-4d7f-9967-9d3ac37523ef" name="Changes" comment="Control Snake with a Keypress">
+      <change afterPath="$PROJECT_DIR$/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -27,13 +29,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.food.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.scoreboard.executor": "Run",
+    "Python.snake.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -58,11 +63,29 @@
       <option name="project" value="LOCAL" />
       <updated>1724627512150</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create a Snake class &amp; move to OOP">
+      <option name="closed" value="true" />
+      <created>1724629855470</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724629855470</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Control Snake with a Keypress">
+      <option name="closed" value="true" />
+      <created>1724632330177</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724632330177</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Snake body and animate snake segments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snake body and animate snake segments" />
+    <MESSAGE value="Create a Snake class &amp; move to OOP" />
+    <MESSAGE value="Control Snake with a Keypress" />
+    <option name="LAST_COMMIT_MESSAGE" value="Control Snake with a Keypress" />
   </component>
 </project>
